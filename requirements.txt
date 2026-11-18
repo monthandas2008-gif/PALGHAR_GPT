@@ -1,0 +1,9 @@
+torch
+transformers
+peft
+bitsandbytes
+datasets
+pymupdf
+pandas
+accelerate
+streamlit
