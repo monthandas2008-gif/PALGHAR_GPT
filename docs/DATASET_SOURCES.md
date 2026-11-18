@@ -48,7 +48,7 @@ The source document's core register includes the following source IDs and linked
 | SRC-017 | JJM Functionality Assessment: Palghar | DDWS, Ministry of Jal Shakti | 2022 | https://jaljeevanmission.gov.in/sites/default/files/2022-11/FHTC_Palghar.pdf |
 | SRC-018 (A) | NITI Aayog State Nutrition Profile: Maharashtra | NITI Aayog & MoHFW | 2019–2021 | https://www.niti.gov.in/sites/default/files/2023-02/SNP_Maharashtra_draft_20210922_SG_v2_JAG_48.pdf |
 | SRC-018 (B) | NFHS-5 Maharashtra Report | IIPS / MoHFW | 2019–2021 | https://dhsprogram.com/pubs/pdf/FR374/FR374_Maharashtra.pdf |
-| SRC-019 | Social Impact Assessment: Vadodara–Mumbai Expressway (Palghar) | NHAI / MoEFCC | 2019–2020 | https://environmentclearance.nic.in/writedata/online/EC/090720205OAG5HSXAdditionalFile.pdf |
+| SRC-019 | Social Impact Assessment: Vadodara–Mumbai Expressway (Palghar) | NHAI / MoEFCC | 2019–2020 | https://environmentclearance.nic.in/writereaddata/online/EC/090720205OAG5HSXAdditionalFile.pdf |
 | SRC-020 (A) | PIB Cabinet Approval: Vadhavan Port | PIB / Cabinet Committee on Economic Affairs | 2024 | https://www.pib.gov.in/PressReleasePage.aspx?PRID=2026695 |
 | SRC-020 (B) | PIB Cabinet Approval: NH-160A corridor | PIB / MoRTH | 2026 | https://www.pib.gov.in/PressReleasePage.aspx?PRID=2227984 |
 | SRC-020 (C) | PIB Outlay: Vadhavan Port & Kharwadeshwari Jetty | Ministry of Ports, Shipping and Waterways / PIB | 2026 | https://www.pib.gov.in/PressReleasePage.aspx?PRID=2294245 |
