@@ -1,0 +1,30 @@
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.env
+.ipynb_checkpoints/
+
+# Model and training artifacts
+checkpoints/
+outputs/
+runs/
+adapters/
+*.safetensors
+*.bin
+*.pt
+*.pth
+
+# Dataset/source files (keep large or licensed source material out of Git)
+data/
+datasets/
+*.pdf
+*.csv
+*.jsonl
+
+# OS/editor
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
